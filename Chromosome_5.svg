@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="175" height="545">
+  <defs>
+    <clipPath id="clip1">
+      <path d="M5 522.2c0 22.7 34 22.7 34 0v-365c0 -22.7 -34 -22.7 -34 0z m0 -399c0 22.7 34 22.7 34 0v-95c0 -22.7 -34 -22.7 -34 0z"/>
+    </clipPath>
+    <style type="text/css">
+      .locus { fill:url(#lograd); }
+      .dark1 { fill:url(#d1grad); }
+      .dark2 { fill:url(#d2grad); }
+      .line  { stroke:#f00; stroke-width:1; }
+      .text  { font-size: 12px; fill: #000; font-family: DejaVu Sans Condensed; }
+    </style>
+    <linearGradient id="lograd" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#BBA"/>
+      <stop offset="50%"  style="stop-color:#FFE"/>
+      <stop offset="100%" style="stop-color:#BBA"/>
+    </linearGradient>
+    <linearGradient id="d1grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#877"/>
+      <stop offset="50%"  style="stop-color:#CBB"/>
+      <stop offset="100%" style="stop-color:#877"/>
+    </linearGradient>
+    <linearGradient id="d2grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#433"/>
+      <stop offset="50%"  style="stop-color:#988"/>
+      <stop offset="100%" style="stop-color:#433"/>
+    </linearGradient>
+    <linearGradient id="bgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#000"/>
+      <stop offset="50%"  style="stop-color:#666"/>
+      <stop offset="100%" style="stop-color:#000"/>
+    </linearGradient>
+  </defs>
+ <g id="Layer 1">
+
+     <g id="locii" clip-path="url(#clip1)">
+	 <rect x="0" y="0" width="40" height="773" fill="url(#bgrad)"/>
+	 <path class="locus" d="M0 527.82h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 502.62h40v-20.16h-40z"/>
+	 <path class="locus" d="M0 471.12h40v-8.82h-40z"/>
+	 <path class="locus" d="M0 449.7h40v-15.12h-40z"/>
+	 <path class="locus" d="M0 419.46h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 391.74h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 365.28h40v-13.86h-40z"/>
+	 <path class="locus" d="M0 343.86h40v-6.3h-40z"/>
+	 <path class="locus" d="M0 331.26h40v-15.12h-40z"/>
+	 <path class="locus" d="M0 311.1h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 287.16h40v-25.2h-40z"/>
+	 <path class="locus" d="M0 255.66h40v-20.16h-40z"/>
+	 <path class="locus" d="M0 226.68h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 204h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 191.4h40v-12.6h-40z"/>
+	 <path class="dark2" d="M0 158.64h40v-21.42h-40z"/>
+	 <path class="locus" d="M0 137.22h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 118.32h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 91.8600000000001h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 76.7400000000001h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 55.3200000000001h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 35.16h40v-6.3h-40z"/>
+</g>
+
+<path class="line" d="M30 521.52h68"/>
+<text class="text" x="102" y="526.52">5q35.2</text>
+<path class="line" d="M30 492.54h15"/>
+<text class="text" x="49" y="497.54">5q34</text>
+<path class="line" d="M30 466.71h68"/>
+<text class="text" x="102" y="471.71">5q33.2</text>
+<path class="line" d="M30 442.14h15"/>
+<text class="text" x="49" y="447.14">5q32</text>
+<path class="line" d="M30 414.42h68"/>
+<text class="text" x="102" y="419.42">5q31.2</text>
+<path class="line" d="M30 386.7h15"/>
+<text class="text" x="49" y="391.7">5q23.3</text>
+<path class="line" d="M30 358.35h68"/>
+<text class="text" x="102" y="363.35">5q23.1</text>
+<path class="line" d="M30 340.71h15"/>
+<text class="text" x="49" y="345.71">5q22.2</text>
+<path class="line" d="M30 323.7h68"/>
+<text class="text" x="102" y="328.7">5q21.3</text>
+<path class="line" d="M30 306.06h15"/>
+<text class="text" x="49" y="311.06">5q21.1</text>
+<path class="line" d="M30 274.56h68"/>
+<text class="text" x="102" y="279.56">5q14.3</text>
+<path class="line" d="M30 245.58h15"/>
+<text class="text" x="49" y="250.58">5q14.1</text>
+<path class="line" d="M30 221.64h68"/>
+<text class="text" x="102" y="226.64">5q13.2</text>
+<path class="line" d="M30 198.96h15"/>
+<text class="text" x="49" y="203.96">5q12.3</text>
+<path class="line" d="M30 185.1h68"/>
+<text class="text" x="102" y="190.1">5q12.1</text>
+<path class="line" d="M30 132.18h15"/>
+<text class="text" x="49" y="137.18">5p12</text>
+<path class="line" d="M30 113.28h68"/>
+<text class="text" x="102" y="118.28">5p13.2</text>
+<path class="line" d="M30 85.5600000000001h15"/>
+<text class="text" x="49" y="90.5600000000001">5p14.1</text>
+<path class="line" d="M30 70.4400000000001h68"/>
+<text class="text" x="102" y="75.4400000000001">5p14.3</text>
+<path class="line" d="M30 49.02h15"/>
+<text class="text" x="49" y="54.02">5p15.2</text>
+<path class="line" d="M30 32.01h68"/>
+<text class="text" x="102" y="37.01">5p15.32</text>
+ </g>
+</svg>

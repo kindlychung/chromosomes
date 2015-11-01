@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="175" height="743">
+  <defs>
+    <clipPath id="clip1">
+      <path d="M5 720c0 22.7 34 22.7 34 0v-412c0 -22.7 -34 -22.7 -34 0z m0 -446c0 22.7 34 22.7 34 0v-248c0 -22.7 -34 -22.7 -34 0z"/>
+    </clipPath>
+    <style type="text/css">
+      .locus { fill:url(#lograd); }
+      .dark1 { fill:url(#d1grad); }
+      .dark2 { fill:url(#d2grad); }
+      .line  { stroke:#f00; stroke-width:1; }
+      .text  { font-size: 12px; fill: #000; font-family: DejaVu Sans Condensed; }
+    </style>
+    <linearGradient id="lograd" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#BBA"/>
+      <stop offset="50%"  style="stop-color:#FFE"/>
+      <stop offset="100%" style="stop-color:#BBA"/>
+    </linearGradient>
+    <linearGradient id="d1grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#877"/>
+      <stop offset="50%"  style="stop-color:#CBB"/>
+      <stop offset="100%" style="stop-color:#877"/>
+    </linearGradient>
+    <linearGradient id="d2grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#433"/>
+      <stop offset="50%"  style="stop-color:#988"/>
+      <stop offset="100%" style="stop-color:#433"/>
+    </linearGradient>
+    <linearGradient id="bgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   style="stop-color:#000"/>
+      <stop offset="50%"  style="stop-color:#666"/>
+      <stop offset="100%" style="stop-color:#000"/>
+    </linearGradient>
+  </defs>
+ <g id="Layer 1">
+
+     <g id="locii" clip-path="url(#clip1)">
+	 <rect x="0" y="0" width="40" height="773" fill="url(#bgrad)"/>
+	 <path class="locus" d="M0 720.58h40v-5.04h-40z"/>
+	 <path class="locus" d="M0 700.42h40v-15.12h-40z"/>
+	 <path class="locus" d="M0 682.78h40v-11.34h-40z"/>
+	 <path class="locus" d="M0 652.54h40v-16.38h-40z"/>
+	 <path class="locus" d="M0 623.56h40v-6.3h-40z"/>
+	 <path class="locus" d="M0 598.36h40v-16.38h-40z"/>
+	 <path class="locus" d="M0 575.68h40v-16.38h-40z"/>
+	 <path class="locus" d="M0 551.74h40v-8.82h-40z"/>
+	 <path class="locus" d="M0 517.72h40v-17.64h-40z"/>
+	 <path class="locus" d="M0 488.74h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 461.02h40v-2.52h-40z"/>
+	 <path class="locus" d="M0 453.46h40v-7.56h-40z"/>
+	 <path class="locus" d="M0 443.38h40v-13.86h-40z"/>
+	 <path class="locus" d="M0 423.22h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 400.54h40v-13.86h-40z"/>
+	 <path class="locus" d="M0 371.56h40v-11.34h-40z"/>
+	 <path class="locus" d="M0 347.62h40v-8.82h-40z"/>
+	 <path class="locus" d="M0 332.5h40v-12.6h-40z"/>
+	 <path class="dark2" d="M0 306.04h40v-22.68h-40z"/>
+	 <path class="locus" d="M0 260.68h40v-25.2h-40z"/>
+	 <path class="locus" d="M0 230.44h40v-6.3h-40z"/>
+	 <path class="locus" d="M0 215.32h40v-8.82h-40z"/>
+	 <path class="locus" d="M0 196.42h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 180.04h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 149.8h40v-10.08h-40z"/>
+	 <path class="locus" d="M0 133.42h40v-13.86h-40z"/>
+	 <path class="locus" d="M0 113.26h40v-6.3h-40z"/>
+	 <path class="locus" d="M0 95.62h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 76.72h40v-12.6h-40z"/>
+	 <path class="locus" d="M0 43.96h40v-8.82h-40z"/>
+</g>
+
+<path class="line" d="M30 718.06h68"/>
+<text class="text" x="102" y="723.06">2q37.2</text>
+<path class="line" d="M30 692.86h15"/>
+<text class="text" x="49" y="697.86">2q36.3</text>
+<path class="line" d="M30 677.11h68"/>
+<text class="text" x="102" y="682.11">2q36.1</text>
+<path class="line" d="M30 644.35h15"/>
+<text class="text" x="49" y="649.35">2q34</text>
+<path class="line" d="M30 620.41h68"/>
+<text class="text" x="102" y="625.41">2q33.2</text>
+<path class="line" d="M30 590.17h15"/>
+<text class="text" x="49" y="595.17">2q32.3</text>
+<path class="line" d="M30 567.49h68"/>
+<text class="text" x="102" y="572.49">2q32.1</text>
+<path class="line" d="M30 547.33h15"/>
+<text class="text" x="49" y="552.33">2q31.2</text>
+<path class="line" d="M30 508.9h68"/>
+<text class="text" x="102" y="513.9">2q24.3</text>
+<path class="line" d="M30 482.44h15"/>
+<text class="text" x="49" y="487.44">2q24.1</text>
+<path class="line" d="M30 459.76h68"/>
+<text class="text" x="102" y="464.76">2q23.2</text>
+<path class="line" d="M30 449.68h15"/>
+<text class="text" x="49" y="454.68">2q22.3</text>
+<path class="line" d="M30 436.45h68"/>
+<text class="text" x="102" y="441.45">2q22.1</text>
+<path class="line" d="M30 418.18h15"/>
+<text class="text" x="49" y="423.18">2q21.2</text>
+<path class="line" d="M30 393.61h68"/>
+<text class="text" x="102" y="398.61">2q14.3</text>
+<path class="line" d="M30 365.89h15"/>
+<text class="text" x="49" y="370.89">2q14.1</text>
+<path class="line" d="M30 343.21h68"/>
+<text class="text" x="102" y="348.21">2q12.3</text>
+<path class="line" d="M30 326.2h15"/>
+<text class="text" x="49" y="331.2">2q12.1</text>
+<path class="line" d="M30 248.08h68"/>
+<text class="text" x="102" y="253.08">2p12</text>
+<path class="line" d="M30 227.29h15"/>
+<text class="text" x="49" y="232.29">2p13.2</text>
+<path class="line" d="M30 210.91h68"/>
+<text class="text" x="102" y="215.91">2p14</text>
+<path class="line" d="M30 190.12h15"/>
+<text class="text" x="49" y="195.12">2p16.1</text>
+<path class="line" d="M30 173.74h68"/>
+<text class="text" x="102" y="178.74">2p16.3</text>
+<path class="line" d="M30 144.76h15"/>
+<text class="text" x="49" y="149.76">2p22.1</text>
+<path class="line" d="M30 126.49h68"/>
+<text class="text" x="102" y="131.49">2p22.3</text>
+<path class="line" d="M30 110.11h15"/>
+<text class="text" x="49" y="115.11">2p23.2</text>
+<path class="line" d="M30 89.3200000000001h68"/>
+<text class="text" x="102" y="94.3200000000001">2p24.1</text>
+<path class="line" d="M30 70.42h15"/>
+<text class="text" x="49" y="75.42">2p24.3</text>
+<path class="line" d="M30 39.55h68"/>
+<text class="text" x="102" y="44.55">2p25.2</text>
+ </g>
+</svg>
